@@ -10,3 +10,8 @@ changes done by server-2
 changes done by server 1
 1. added the billing details in dashboard
 2. side bar creation and resource listing
+
+
+changes done by server 2
+1. fetching resources details from api
+2. designed delete resource feature
